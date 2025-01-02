@@ -1,0 +1,1001 @@
+Order ID,Amount,Profit,Quantity,Category,Sub-Category,Payment Mode
+B-936317,207,340,6,Technology,Accessories,EMI
+B-435707,707,125,1,Office Supplies,Art,Net Banking
+B-435565,718,460,3,Office Supplies,Binders,COD
+B-640125,705,422,2,Furniture,Chairs,Net Banking
+B-808843,781,49,1,Office Supplies,Art,COD
+B-702789,529,445,4,Furniture,Bookcases,Credit Card
+B-674637,465,82,3,Office Supplies,Art,EMI
+B-758075,756,377,4,Furniture,Tables,Net Banking
+B-742499,784,447,8,Office Supplies,Paper,Credit Card
+B-719460,239,240,7,Technology,Copiers,Credit Card
+B-659806,397,99,9,Furniture,Tables,Net Banking
+B-374696,754,353,1,Furniture,Tables,EMI
+B-329577,250,262,4,Furniture,Tables,Net Banking
+B-813651,111,454,9,Office Supplies,Paper,EMI
+B-727820,560,-18,5,Furniture,Tables,Credit Card
+B-131376,869,68,9,Office Supplies,Art,COD
+B-232075,119,212,8,Furniture,Bookcases,Net Banking
+B-858589,982,499,10,Office Supplies,Binders,COD
+B-628317,189,304,4,Furniture,Chairs,EMI
+B-368623,63,97,3,Technology,Phones,Credit Card
+B-198575,907,39,6,Office Supplies,Paper,COD
+B-581414,114,334,6,Furniture,Tables,Credit Card
+B-697388,559,421,7,Office Supplies,Binders,EMI
+B-269158,695,327,10,Technology,Accessories,COD
+B-557229,283,415,1,Furniture,Bookcases,Net Banking
+B-590692,680,466,7,Furniture,Bookcases,COD
+B-377189,69,315,8,Office Supplies,Art,Credit Card
+B-214991,201,425,1,Furniture,Chairs,Net Banking
+B-410332,733,21,8,Furniture,Chairs,Credit Card
+B-557157,182,366,5,Technology,Accessories,Credit Card
+B-363380,408,184,1,Technology,Accessories,Credit Card
+B-303628,765,-9,6,Furniture,Chairs,COD
+B-683354,299,311,8,Office Supplies,Paper,Credit Card
+B-281798,391,313,1,Office Supplies,Paper,COD
+B-687427,192,479,3,Furniture,Chairs,Net Banking
+B-704270,73,393,1,Office Supplies,Paper,Credit Card
+B-696366,287,493,8,Furniture,Tables,Net Banking
+B-885188,739,480,3,Technology,Copiers,Credit Card
+B-652643,442,246,4,Furniture,Bookcases,COD
+B-655761,352,-1,9,Technology,Copiers,Net Banking
+B-531826,660,157,1,Furniture,Chairs,COD
+B-624703,130,437,7,Office Supplies,Binders,Credit Card
+B-160188,836,155,10,Office Supplies,Art,Credit Card
+B-442723,981,495,1,Technology,Phones,COD
+B-927205,796,388,7,Office Supplies,Art,Credit Card
+B-232830,202,171,3,Office Supplies,Art,Net Banking
+B-381136,859,275,3,Office Supplies,Paper,EMI
+B-242535,745,172,3,Office Supplies,Binders,EMI
+B-966611,438,4,10,Technology,Phones,Net Banking
+B-936607,257,163,5,Furniture,Bookcases,COD
+B-549176,834,270,1,Furniture,Bookcases,COD
+B-398972,505,261,7,Office Supplies,Binders,Credit Card
+B-485342,660,376,1,Technology,Phones,COD
+B-599810,88,190,3,Furniture,Tables,Net Banking
+B-148140,726,349,4,Technology,Phones,Credit Card
+B-909347,838,83,8,Office Supplies,Art,COD
+B-257993,149,-48,1,Furniture,Chairs,Credit Card
+B-788035,588,54,6,Office Supplies,Paper,Credit Card
+B-507089,998,352,4,Office Supplies,Paper,EMI
+B-264158,551,129,1,Furniture,Bookcases,EMI
+B-220913,608,51,9,Furniture,Bookcases,COD
+B-347240,298,463,3,Office Supplies,Binders,EMI
+B-567533,425,71,8,Furniture,Bookcases,COD
+B-953502,712,135,8,Office Supplies,Binders,Credit Card
+B-786507,104,229,3,Office Supplies,Art,Credit Card
+B-717264,993,112,10,Furniture,Bookcases,EMI
+B-417855,441,332,2,Office Supplies,Binders,EMI
+B-353870,406,131,4,Furniture,Bookcases,COD
+B-582498,922,18,8,Office Supplies,Binders,Credit Card
+B-664494,589,373,7,Furniture,Bookcases,COD
+B-320762,275,325,1,Furniture,Chairs,Credit Card
+B-917254,561,-4,9,Technology,Copiers,Credit Card
+B-974922,110,87,8,Technology,Phones,Credit Card
+B-477314,299,-38,8,Technology,Copiers,COD
+B-352980,95,0,6,Technology,Accessories,Credit Card
+B-431405,338,396,6,Office Supplies,Paper,Net Banking
+B-699383,876,62,8,Office Supplies,Paper,Net Banking
+B-951829,539,330,1,Furniture,Chairs,Credit Card
+B-235687,532,377,5,Furniture,Bookcases,COD
+B-587321,485,88,3,Technology,Phones,Credit Card
+B-431601,274,456,4,Furniture,Chairs,COD
+B-510443,971,55,6,Furniture,Chairs,Net Banking
+B-387825,928,355,10,Office Supplies,Art,COD
+B-548023,368,22,7,Office Supplies,Paper,Credit Card
+B-395774,461,81,1,Furniture,Bookcases,Net Banking
+B-492699,839,211,3,Office Supplies,Binders,Credit Card
+B-844717,615,203,6,Furniture,Chairs,COD
+B-772723,810,491,8,Technology,Copiers,COD
+B-619267,313,453,10,Office Supplies,Binders,EMI
+B-558725,994,362,10,Furniture,Tables,Net Banking
+B-548232,672,107,1,Office Supplies,Paper,COD
+B-516331,327,8,3,Office Supplies,Paper,COD
+B-687971,763,163,1,Office Supplies,Binders,EMI
+B-231344,393,223,6,Furniture,Bookcases,COD
+B-109257,960,170,4,Office Supplies,Binders,Net Banking
+B-991757,763,293,10,Furniture,Bookcases,Net Banking
+B-182073,395,374,5,Furniture,Tables,EMI
+B-130966,348,-23,3,Furniture,Chairs,EMI
+B-467912,284,256,6,Furniture,Bookcases,Net Banking
+B-817836,290,324,9,Furniture,Bookcases,Net Banking
+B-666905,866,383,2,Furniture,Chairs,COD
+B-276571,831,161,8,Technology,Phones,EMI
+B-897724,589,127,4,Furniture,Chairs,COD
+B-387008,704,348,10,Furniture,Bookcases,COD
+B-815713,283,289,2,Technology,Copiers,COD
+B-403171,408,180,2,Technology,Copiers,EMI
+B-616004,622,-13,10,Office Supplies,Art,Net Banking
+B-552863,909,432,9,Technology,Copiers,COD
+B-525430,766,497,4,Furniture,Tables,Net Banking
+B-999772,439,59,2,Technology,Phones,Net Banking
+B-863846,319,193,5,Furniture,Bookcases,Credit Card
+B-390639,74,415,8,Office Supplies,Paper,Credit Card
+B-850633,413,402,7,Office Supplies,Binders,COD
+B-933753,521,108,6,Furniture,Tables,COD
+B-233245,497,55,7,Technology,Phones,EMI
+B-623792,450,180,3,Office Supplies,Art,COD
+B-849233,764,238,3,Furniture,Tables,EMI
+B-308840,989,85,8,Technology,Phones,EMI
+B-772407,452,428,1,Furniture,Chairs,Credit Card
+B-986648,684,347,9,Furniture,Bookcases,Credit Card
+B-729609,951,422,3,Technology,Accessories,EMI
+B-506384,149,259,7,Furniture,Tables,COD
+B-534132,808,464,5,Office Supplies,Paper,COD
+B-604636,879,121,4,Furniture,Chairs,Credit Card
+B-495562,521,480,3,Furniture,Bookcases,Net Banking
+B-514539,180,-16,10,Office Supplies,Binders,Net Banking
+B-413212,155,476,3,Furniture,Tables,Net Banking
+B-144364,475,-5,8,Furniture,Bookcases,COD
+B-432911,639,5,2,Furniture,Bookcases,Credit Card
+B-524383,440,419,6,Furniture,Bookcases,EMI
+B-518978,404,18,5,Technology,Copiers,Credit Card
+B-207397,735,-25,10,Office Supplies,Paper,EMI
+B-938435,475,213,1,Office Supplies,Binders,EMI
+B-918176,166,461,4,Office Supplies,Paper,COD
+B-158967,73,465,5,Technology,Copiers,EMI
+B-502742,224,110,10,Technology,Phones,Credit Card
+B-406242,900,259,2,Office Supplies,Art,Net Banking
+B-183719,117,192,4,Office Supplies,Art,Credit Card
+B-483027,673,391,9,Furniture,Chairs,EMI
+B-169593,897,35,8,Furniture,Tables,Net Banking
+B-798038,376,252,3,Technology,Phones,Credit Card
+B-517299,224,262,6,Technology,Copiers,Net Banking
+B-383443,164,10,2,Technology,Accessories,COD
+B-252573,68,360,5,Office Supplies,Art,Credit Card
+B-252318,371,215,6,Furniture,Tables,COD
+B-196396,280,453,6,Furniture,Tables,Net Banking
+B-559941,364,144,4,Office Supplies,Binders,EMI
+B-115194,782,140,6,Furniture,Tables,Net Banking
+B-660021,829,108,6,Furniture,Bookcases,Net Banking
+B-877271,284,439,9,Office Supplies,Art,Net Banking
+B-809009,861,339,10,Technology,Phones,Credit Card
+B-938295,582,449,7,Office Supplies,Art,COD
+B-319113,157,9,8,Furniture,Bookcases,Credit Card
+B-411420,942,51,4,Furniture,Chairs,EMI
+B-676310,778,65,6,Office Supplies,Binders,EMI
+B-821269,484,178,9,Furniture,Tables,Net Banking
+B-778903,109,217,9,Technology,Copiers,EMI
+B-189433,742,404,2,Office Supplies,Binders,EMI
+B-634883,289,119,9,Office Supplies,Art,Credit Card
+B-188724,652,199,9,Office Supplies,Paper,COD
+B-590330,551,136,6,Furniture,Chairs,Credit Card
+B-922241,983,446,5,Technology,Copiers,EMI
+B-409722,690,395,1,Office Supplies,Paper,Net Banking
+B-919448,995,158,5,Technology,Accessories,COD
+B-527263,764,366,4,Office Supplies,Paper,Credit Card
+B-766192,257,130,3,Office Supplies,Art,Net Banking
+B-712952,791,-40,2,Furniture,Tables,COD
+B-596586,359,156,1,Furniture,Tables,EMI
+B-786565,892,349,8,Furniture,Bookcases,COD
+B-171906,889,356,10,Office Supplies,Art,Credit Card
+B-419304,671,284,7,Technology,Accessories,COD
+B-137570,465,57,8,Technology,Copiers,Net Banking
+B-940322,890,336,8,Office Supplies,Paper,Net Banking
+B-577569,969,472,2,Furniture,Tables,Credit Card
+B-562319,218,-32,5,Technology,Phones,EMI
+B-269178,183,333,3,Technology,Copiers,Credit Card
+B-840376,881,112,5,Furniture,Tables,Credit Card
+B-480684,97,239,10,Office Supplies,Binders,COD
+B-436199,448,216,9,Office Supplies,Art,EMI
+B-390398,470,184,9,Technology,Phones,Credit Card
+B-574682,345,-42,4,Furniture,Chairs,EMI
+B-548379,584,-31,1,Technology,Accessories,Net Banking
+B-366716,693,371,7,Technology,Accessories,Credit Card
+B-583514,537,123,9,Office Supplies,Binders,Net Banking
+B-528629,686,286,10,Office Supplies,Binders,COD
+B-597168,290,312,10,Office Supplies,Binders,EMI
+B-879408,620,23,7,Furniture,Chairs,COD
+B-533101,394,296,9,Technology,Phones,COD
+B-786395,460,178,10,Furniture,Tables,Credit Card
+B-718516,424,356,10,Office Supplies,Binders,Credit Card
+B-661016,656,212,9,Office Supplies,Art,Credit Card
+B-316313,523,1,8,Office Supplies,Art,EMI
+B-869962,300,204,8,Technology,Accessories,EMI
+B-249772,257,163,4,Furniture,Bookcases,COD
+B-684659,229,-23,2,Technology,Phones,Credit Card
+B-311464,359,209,3,Technology,Phones,COD
+B-976677,740,87,9,Office Supplies,Paper,COD
+B-549291,659,-25,1,Office Supplies,Binders,EMI
+B-556111,772,422,6,Office Supplies,Binders,EMI
+B-178338,387,253,4,Office Supplies,Binders,Credit Card
+B-129586,60,119,9,Technology,Copiers,Net Banking
+B-475359,768,469,1,Office Supplies,Art,EMI
+B-604607,897,352,10,Office Supplies,Art,Net Banking
+B-528031,235,133,5,Furniture,Chairs,Credit Card
+B-757626,790,127,8,Office Supplies,Binders,COD
+B-499789,906,125,7,Furniture,Bookcases,EMI
+B-201269,635,223,8,Technology,Accessories,COD
+B-488161,220,393,2,Technology,Copiers,Net Banking
+B-169132,170,456,2,Office Supplies,Binders,Credit Card
+B-232162,616,25,3,Furniture,Bookcases,Credit Card
+B-599940,609,339,8,Technology,Accessories,Credit Card
+B-839722,166,133,8,Furniture,Bookcases,EMI
+B-543467,141,217,4,Office Supplies,Binders,Credit Card
+B-568160,463,-50,8,Furniture,Bookcases,Net Banking
+B-323424,272,381,1,Technology,Copiers,EMI
+B-611519,771,157,3,Technology,Accessories,Net Banking
+B-811204,575,375,6,Furniture,Chairs,COD
+B-346792,382,206,2,Technology,Phones,Net Banking
+B-846018,719,-31,5,Technology,Phones,EMI
+B-612840,657,235,6,Technology,Phones,EMI
+B-431455,375,145,2,Office Supplies,Art,Net Banking
+B-818707,678,237,3,Furniture,Chairs,COD
+B-558541,83,301,7,Technology,Accessories,COD
+B-908178,954,192,1,Furniture,Bookcases,COD
+B-242708,262,361,2,Technology,Copiers,Credit Card
+B-326172,238,460,1,Furniture,Tables,COD
+B-947766,115,71,7,Office Supplies,Paper,Net Banking
+B-888270,534,297,2,Office Supplies,Paper,Net Banking
+B-876404,167,106,1,Furniture,Tables,EMI
+B-975097,466,482,5,Furniture,Chairs,EMI
+B-872840,390,76,5,Technology,Copiers,Credit Card
+B-895018,150,168,3,Technology,Accessories,Credit Card
+B-426024,703,-11,4,Furniture,Bookcases,Net Banking
+B-444807,107,-22,2,Furniture,Tables,Credit Card
+B-748148,476,207,3,Furniture,Chairs,EMI
+B-345092,670,185,2,Office Supplies,Paper,Credit Card
+B-839830,720,93,5,Office Supplies,Binders,COD
+B-765156,100,101,2,Furniture,Chairs,Credit Card
+B-368846,484,394,1,Furniture,Chairs,Net Banking
+B-148325,788,86,10,Technology,Copiers,Credit Card
+B-724691,913,421,9,Furniture,Bookcases,COD
+B-930571,234,321,10,Technology,Phones,COD
+B-103907,398,331,1,Technology,Phones,Net Banking
+B-652199,960,269,9,Furniture,Tables,Net Banking
+B-175001,66,264,8,Technology,Accessories,COD
+B-936557,455,268,10,Furniture,Tables,Credit Card
+B-571926,115,48,4,Furniture,Bookcases,COD
+B-771221,401,368,3,Office Supplies,Binders,COD
+B-738963,141,-16,10,Furniture,Bookcases,Credit Card
+B-877343,704,172,3,Furniture,Bookcases,Net Banking
+B-384148,622,286,5,Office Supplies,Art,Net Banking
+B-958411,103,-47,5,Technology,Accessories,EMI
+B-756601,81,-3,7,Furniture,Bookcases,Net Banking
+B-231151,157,128,10,Office Supplies,Binders,EMI
+B-967260,968,444,2,Furniture,Chairs,Net Banking
+B-801084,440,70,9,Technology,Accessories,Credit Card
+B-896446,377,465,7,Office Supplies,Binders,Credit Card
+B-823440,835,494,4,Technology,Phones,Credit Card
+B-865949,574,396,5,Office Supplies,Binders,Credit Card
+B-465594,509,217,7,Office Supplies,Binders,Credit Card
+B-401399,224,108,5,Furniture,Chairs,EMI
+B-930943,943,321,9,Furniture,Bookcases,Credit Card
+B-337469,889,111,1,Furniture,Tables,EMI
+B-653627,207,292,4,Furniture,Tables,Net Banking
+B-141455,900,429,10,Furniture,Chairs,EMI
+B-449720,176,288,2,Technology,Accessories,Net Banking
+B-260473,765,216,5,Office Supplies,Binders,Net Banking
+B-617144,663,238,2,Furniture,Bookcases,Credit Card
+B-398865,955,249,3,Office Supplies,Binders,Net Banking
+B-795286,537,492,8,Office Supplies,Binders,COD
+B-885171,339,-15,9,Furniture,Chairs,Credit Card
+B-564739,562,415,1,Office Supplies,Binders,EMI
+B-713014,858,307,9,Technology,Copiers,Credit Card
+B-316021,959,324,3,Furniture,Chairs,COD
+B-539028,460,498,4,Technology,Copiers,EMI
+B-731988,98,103,7,Furniture,Bookcases,EMI
+B-417609,405,73,1,Technology,Copiers,Net Banking
+B-963993,263,10,5,Furniture,Chairs,COD
+B-804909,406,125,2,Technology,Copiers,EMI
+B-622145,325,114,3,Technology,Phones,Credit Card
+B-309342,695,89,10,Technology,Phones,Credit Card
+B-626926,752,407,8,Technology,Phones,Net Banking
+B-390493,649,316,9,Technology,Phones,EMI
+B-577336,999,287,9,Furniture,Tables,EMI
+B-842054,799,-34,3,Office Supplies,Binders,COD
+B-738003,274,-8,9,Office Supplies,Binders,COD
+B-781484,681,464,6,Furniture,Bookcases,EMI
+B-417348,816,473,10,Technology,Accessories,COD
+B-138834,792,141,6,Technology,Accessories,Credit Card
+B-440899,173,451,1,Technology,Accessories,Net Banking
+B-859161,709,41,5,Furniture,Chairs,COD
+B-735008,701,222,10,Office Supplies,Art,EMI
+B-630042,729,-4,7,Office Supplies,Art,EMI
+B-630827,702,237,6,Technology,Accessories,Net Banking
+B-228828,360,369,3,Technology,Copiers,COD
+B-422484,787,168,3,Technology,Accessories,COD
+B-364998,343,124,8,Office Supplies,Paper,Net Banking
+B-976615,607,297,7,Technology,Phones,Credit Card
+B-624827,253,254,4,Technology,Accessories,Net Banking
+B-686417,636,373,9,Office Supplies,Binders,EMI
+B-269665,818,3,6,Office Supplies,Art,EMI
+B-345527,538,272,7,Office Supplies,Art,COD
+B-391569,783,208,7,Technology,Phones,Net Banking
+B-674993,249,-23,7,Office Supplies,Binders,EMI
+B-510037,662,-41,4,Technology,Copiers,COD
+B-798821,859,125,4,Furniture,Chairs,EMI
+B-166766,839,190,7,Technology,Phones,EMI
+B-599155,770,-43,4,Technology,Copiers,COD
+B-691717,287,217,10,Office Supplies,Paper,EMI
+B-160725,172,49,8,Technology,Accessories,EMI
+B-219678,403,-19,2,Furniture,Bookcases,Net Banking
+B-298166,635,441,2,Technology,Accessories,COD
+B-273426,491,201,9,Technology,Phones,Credit Card
+B-806511,142,285,10,Furniture,Bookcases,EMI
+B-586489,419,262,8,Office Supplies,Paper,Credit Card
+B-918612,154,12,2,Technology,Phones,COD
+B-516866,765,331,4,Office Supplies,Art,COD
+B-442139,803,270,7,Technology,Phones,COD
+B-415076,394,395,3,Technology,Phones,EMI
+B-295092,766,124,6,Office Supplies,Binders,Net Banking
+B-784771,374,195,3,Office Supplies,Binders,COD
+B-880846,319,32,5,Office Supplies,Paper,EMI
+B-156702,435,391,3,Furniture,Chairs,COD
+B-458462,514,184,2,Technology,Phones,Net Banking
+B-226265,703,289,9,Office Supplies,Binders,COD
+B-663106,946,240,6,Furniture,Chairs,Credit Card
+B-490849,712,176,5,Furniture,Chairs,Credit Card
+B-258303,681,389,2,Technology,Copiers,EMI
+B-386252,902,177,4,Technology,Copiers,Net Banking
+B-457381,882,-12,2,Office Supplies,Paper,Credit Card
+B-702846,80,37,7,Furniture,Chairs,Credit Card
+B-988891,572,-46,3,Furniture,Bookcases,Net Banking
+B-970074,360,214,10,Furniture,Tables,Credit Card
+B-430211,449,88,4,Technology,Accessories,Credit Card
+B-193732,178,195,3,Technology,Copiers,Credit Card
+B-974374,747,-29,7,Furniture,Bookcases,Credit Card
+B-237904,845,116,6,Furniture,Chairs,Net Banking
+B-555873,201,153,3,Technology,Accessories,Credit Card
+B-829993,947,43,3,Office Supplies,Art,Credit Card
+B-631354,397,109,5,Office Supplies,Binders,Net Banking
+B-247469,161,365,6,Office Supplies,Art,COD
+B-646976,609,197,7,Office Supplies,Art,Net Banking
+B-674374,692,347,5,Furniture,Bookcases,COD
+B-590815,319,322,6,Furniture,Tables,COD
+B-887536,100,297,6,Technology,Copiers,COD
+B-911672,971,482,2,Office Supplies,Paper,Credit Card
+B-683810,331,235,3,Technology,Copiers,Credit Card
+B-609725,719,273,4,Furniture,Tables,Credit Card
+B-998321,852,317,8,Furniture,Tables,Net Banking
+B-335748,471,314,9,Furniture,Bookcases,EMI
+B-460881,921,-50,9,Furniture,Chairs,Credit Card
+B-409277,473,395,4,Office Supplies,Paper,COD
+B-243987,244,315,1,Furniture,Tables,Net Banking
+B-364694,638,443,2,Office Supplies,Paper,Net Banking
+B-842989,399,459,10,Technology,Accessories,Credit Card
+B-219872,353,318,7,Office Supplies,Art,Net Banking
+B-252370,113,167,9,Furniture,Bookcases,COD
+B-476782,262,156,2,Technology,Copiers,COD
+B-121802,395,435,1,Office Supplies,Paper,Credit Card
+B-108076,812,274,1,Technology,Phones,Credit Card
+B-783235,121,475,3,Office Supplies,Paper,COD
+B-466158,422,186,7,Technology,Phones,EMI
+B-412896,936,238,1,Technology,Accessories,COD
+B-102111,842,488,9,Technology,Phones,COD
+B-506654,382,21,5,Office Supplies,Paper,Credit Card
+B-127679,66,330,2,Furniture,Bookcases,Net Banking
+B-788871,351,250,3,Office Supplies,Paper,COD
+B-208032,503,330,6,Furniture,Tables,COD
+B-735902,491,303,4,Furniture,Tables,Credit Card
+B-756851,254,1,7,Furniture,Chairs,Net Banking
+B-346421,542,-27,8,Technology,Copiers,COD
+B-874878,228,37,4,Technology,Phones,EMI
+B-540821,127,145,4,Furniture,Chairs,EMI
+B-639844,270,291,8,Technology,Accessories,Net Banking
+B-834515,734,456,5,Technology,Copiers,EMI
+B-683398,592,474,3,Furniture,Tables,Credit Card
+B-189794,998,37,5,Technology,Accessories,COD
+B-344040,323,135,4,Office Supplies,Paper,EMI
+B-722066,849,368,2,Technology,Copiers,COD
+B-292054,401,73,7,Technology,Accessories,EMI
+B-893803,496,134,5,Office Supplies,Binders,Net Banking
+B-738544,761,404,3,Furniture,Bookcases,Net Banking
+B-421030,312,-13,10,Office Supplies,Art,COD
+B-469328,183,-3,4,Technology,Copiers,EMI
+B-561106,872,458,10,Furniture,Tables,Net Banking
+B-938788,684,395,2,Furniture,Bookcases,Credit Card
+B-956250,83,343,7,Furniture,Bookcases,Credit Card
+B-505678,614,161,9,Furniture,Tables,EMI
+B-156921,684,165,2,Office Supplies,Binders,Credit Card
+B-274902,512,256,8,Office Supplies,Art,Net Banking
+B-494418,526,219,5,Furniture,Chairs,Net Banking
+B-760516,396,494,1,Office Supplies,Paper,Credit Card
+B-201697,194,62,5,Technology,Copiers,Net Banking
+B-275899,87,133,9,Technology,Accessories,EMI
+B-120166,247,310,5,Furniture,Tables,Net Banking
+B-145828,565,114,10,Office Supplies,Art,COD
+B-279104,954,5,7,Technology,Copiers,EMI
+B-675850,746,430,1,Technology,Copiers,Net Banking
+B-152519,962,497,5,Furniture,Tables,EMI
+B-426737,534,33,10,Furniture,Tables,COD
+B-108014,324,11,10,Technology,Phones,Net Banking
+B-555330,747,69,4,Office Supplies,Art,EMI
+B-397771,375,134,9,Furniture,Tables,COD
+B-924446,526,238,4,Furniture,Bookcases,COD
+B-950217,969,339,8,Technology,Accessories,Credit Card
+B-343865,788,241,7,Furniture,Tables,Net Banking
+B-242709,261,-35,9,Technology,Accessories,Net Banking
+B-611975,297,173,8,Technology,Accessories,Credit Card
+B-362621,844,334,2,Technology,Accessories,Credit Card
+B-516354,67,329,7,Office Supplies,Paper,COD
+B-428069,419,441,2,Technology,Accessories,Credit Card
+B-737648,236,272,1,Office Supplies,Art,COD
+B-380905,122,166,7,Technology,Phones,Net Banking
+B-290263,595,125,5,Technology,Copiers,COD
+B-236010,785,194,4,Office Supplies,Art,Net Banking
+B-625525,246,248,4,Office Supplies,Paper,COD
+B-495314,164,101,3,Furniture,Tables,Net Banking
+B-461199,351,334,6,Office Supplies,Paper,COD
+B-837455,454,85,8,Furniture,Chairs,EMI
+B-276920,468,430,7,Furniture,Chairs,COD
+B-810706,824,121,1,Furniture,Chairs,Credit Card
+B-956087,773,159,4,Office Supplies,Paper,Net Banking
+B-174584,667,375,9,Office Supplies,Paper,COD
+B-598896,142,490,3,Technology,Phones,Net Banking
+B-543590,980,439,5,Furniture,Bookcases,Credit Card
+B-793802,68,-34,6,Technology,Copiers,COD
+B-275166,66,444,8,Furniture,Bookcases,Credit Card
+B-236713,656,151,9,Office Supplies,Paper,Credit Card
+B-742717,104,392,3,Technology,Phones,EMI
+B-459380,207,-22,2,Furniture,Bookcases,EMI
+B-752998,209,391,8,Furniture,Tables,Credit Card
+B-959528,347,-26,1,Technology,Copiers,COD
+B-717887,677,-24,3,Office Supplies,Binders,Credit Card
+B-457705,207,462,6,Technology,Accessories,EMI
+B-685261,689,246,1,Furniture,Bookcases,EMI
+B-102012,450,16,7,Technology,Accessories,COD
+B-769904,691,134,9,Furniture,Tables,Credit Card
+B-563268,756,226,9,Furniture,Bookcases,EMI
+B-890399,850,130,2,Office Supplies,Binders,Credit Card
+B-522347,919,219,2,Technology,Accessories,Net Banking
+B-108267,96,226,5,Technology,Copiers,Net Banking
+B-279526,817,49,6,Furniture,Chairs,EMI
+B-531193,275,407,6,Office Supplies,Binders,Credit Card
+B-938418,68,379,1,Office Supplies,Binders,EMI
+B-535717,400,457,7,Technology,Accessories,Net Banking
+B-907274,620,101,5,Technology,Accessories,COD
+B-308735,359,216,2,Furniture,Chairs,Net Banking
+B-366088,172,176,9,Furniture,Tables,Net Banking
+B-926207,486,392,3,Technology,Phones,EMI
+B-526797,223,213,6,Office Supplies,Art,COD
+B-706604,235,228,4,Furniture,Tables,Net Banking
+B-412281,201,129,5,Furniture,Bookcases,EMI
+B-216592,743,-48,1,Technology,Phones,EMI
+B-706215,936,374,6,Office Supplies,Art,EMI
+B-856893,348,421,1,Office Supplies,Paper,EMI
+B-278271,871,367,9,Technology,Phones,EMI
+B-981622,676,455,10,Furniture,Bookcases,EMI
+B-123286,83,231,10,Furniture,Tables,Credit Card
+B-225177,322,274,8,Office Supplies,Art,EMI
+B-698178,703,483,3,Office Supplies,Art,EMI
+B-249702,751,98,7,Technology,Accessories,COD
+B-693897,96,0,4,Office Supplies,Paper,Credit Card
+B-517120,987,371,10,Technology,Phones,COD
+B-592557,685,5,5,Furniture,Chairs,Net Banking
+B-829046,638,494,7,Technology,Accessories,EMI
+B-239424,343,161,3,Furniture,Tables,Credit Card
+B-358070,305,97,5,Office Supplies,Binders,Credit Card
+B-673573,118,-23,5,Furniture,Bookcases,Credit Card
+B-384571,843,425,7,Office Supplies,Art,COD
+B-218257,377,202,5,Office Supplies,Art,Credit Card
+B-162786,362,243,8,Technology,Copiers,Credit Card
+B-562747,456,236,6,Office Supplies,Art,Net Banking
+B-456125,908,467,6,Office Supplies,Art,COD
+B-462193,812,67,7,Office Supplies,Binders,COD
+B-565300,92,419,4,Office Supplies,Paper,EMI
+B-808612,175,94,6,Furniture,Bookcases,Credit Card
+B-528395,795,220,7,Office Supplies,Art,Net Banking
+B-647402,932,233,1,Furniture,Chairs,Credit Card
+B-215161,103,98,2,Furniture,Bookcases,COD
+B-590779,278,81,10,Office Supplies,Paper,Credit Card
+B-927508,879,256,8,Furniture,Chairs,EMI
+B-268517,114,370,7,Office Supplies,Paper,EMI
+B-288814,556,348,6,Office Supplies,Paper,COD
+B-458013,358,399,3,Technology,Accessories,Credit Card
+B-694395,255,416,7,Technology,Accessories,Credit Card
+B-567267,387,-20,10,Furniture,Chairs,Credit Card
+B-340122,462,280,5,Office Supplies,Art,Net Banking
+B-272160,152,87,9,Office Supplies,Art,EMI
+B-496264,605,418,2,Technology,Phones,Credit Card
+B-233419,152,387,5,Furniture,Chairs,Net Banking
+B-689717,185,300,5,Technology,Copiers,COD
+B-477434,768,215,1,Office Supplies,Paper,Net Banking
+B-147563,647,275,3,Office Supplies,Paper,EMI
+B-537291,251,46,1,Technology,Copiers,Net Banking
+B-932879,499,-11,4,Furniture,Tables,Credit Card
+B-219907,159,265,2,Office Supplies,Art,Net Banking
+B-435741,520,-19,4,Technology,Accessories,EMI
+B-270036,255,108,10,Office Supplies,Paper,Credit Card
+B-252988,875,333,7,Office Supplies,Art,EMI
+B-683816,900,18,3,Office Supplies,Binders,Net Banking
+B-484643,499,240,2,Technology,Phones,Net Banking
+B-896173,187,100,10,Office Supplies,Binders,Net Banking
+B-965025,181,62,9,Office Supplies,Binders,EMI
+B-131389,255,280,7,Technology,Accessories,COD
+B-755983,78,122,9,Furniture,Bookcases,Credit Card
+B-741237,385,42,7,Furniture,Chairs,Net Banking
+B-858424,475,244,5,Technology,Phones,EMI
+B-387509,521,406,8,Technology,Phones,Credit Card
+B-495137,421,78,8,Technology,Copiers,Credit Card
+B-301401,66,160,8,Technology,Phones,Credit Card
+B-480354,61,429,3,Office Supplies,Binders,COD
+B-349089,732,347,5,Office Supplies,Paper,COD
+B-189623,71,498,3,Office Supplies,Art,Credit Card
+B-494967,570,303,9,Office Supplies,Binders,COD
+B-923598,416,-23,1,Office Supplies,Paper,COD
+B-565141,400,464,1,Furniture,Chairs,EMI
+B-816183,443,249,7,Office Supplies,Art,COD
+B-277018,62,162,5,Office Supplies,Binders,COD
+B-657388,662,218,7,Office Supplies,Paper,EMI
+B-223974,483,460,6,Furniture,Bookcases,COD
+B-167871,868,22,4,Technology,Copiers,Credit Card
+B-629699,448,344,9,Technology,Phones,EMI
+B-248504,352,119,6,Technology,Phones,EMI
+B-458278,834,238,8,Office Supplies,Paper,Credit Card
+B-816086,278,156,2,Technology,Accessories,COD
+B-216460,822,23,1,Technology,Copiers,Credit Card
+B-372780,262,363,7,Technology,Copiers,COD
+B-718431,589,282,8,Furniture,Bookcases,COD
+B-429308,613,123,10,Furniture,Tables,Credit Card
+B-625572,950,355,7,Furniture,Chairs,EMI
+B-702902,579,369,6,Office Supplies,Paper,COD
+B-577112,544,469,5,Technology,Accessories,COD
+B-473769,746,299,3,Technology,Phones,COD
+B-242252,661,296,5,Office Supplies,Paper,Net Banking
+B-781456,672,278,3,Furniture,Bookcases,EMI
+B-881739,122,106,2,Furniture,Bookcases,Credit Card
+B-559219,816,-47,2,Office Supplies,Paper,COD
+B-992861,846,-41,1,Technology,Accessories,Net Banking
+B-708282,971,6,9,Furniture,Bookcases,Credit Card
+B-880210,557,172,5,Office Supplies,Paper,EMI
+B-341502,642,119,3,Office Supplies,Art,Net Banking
+B-650005,883,232,10,Furniture,Bookcases,Credit Card
+B-837124,689,56,4,Technology,Accessories,COD
+B-753047,909,407,8,Technology,Copiers,EMI
+B-164998,404,1,10,Technology,Copiers,COD
+B-407339,445,367,4,Office Supplies,Paper,COD
+B-349228,441,148,1,Furniture,Tables,EMI
+B-486095,882,81,9,Office Supplies,Paper,Credit Card
+B-726935,527,404,3,Office Supplies,Paper,EMI
+B-654742,853,210,7,Technology,Phones,Net Banking
+B-127351,654,284,8,Technology,Accessories,COD
+B-153947,883,140,7,Furniture,Chairs,Credit Card
+B-856766,993,80,4,Technology,Phones,COD
+B-530170,652,-22,2,Technology,Phones,EMI
+B-213601,702,120,2,Office Supplies,Art,Credit Card
+B-392897,816,3,2,Furniture,Chairs,COD
+B-877819,322,313,1,Office Supplies,Binders,COD
+B-143361,543,288,7,Office Supplies,Binders,COD
+B-952539,322,122,5,Technology,Accessories,Credit Card
+B-474616,288,470,6,Office Supplies,Binders,COD
+B-893265,794,142,5,Technology,Accessories,COD
+B-626463,361,489,5,Office Supplies,Paper,Net Banking
+B-833717,632,-6,5,Furniture,Tables,Net Banking
+B-561619,947,251,6,Furniture,Tables,COD
+B-748115,344,269,1,Office Supplies,Binders,EMI
+B-760604,931,1,4,Office Supplies,Binders,COD
+B-900578,909,284,9,Technology,Copiers,EMI
+B-432189,492,33,5,Furniture,Tables,Net Banking
+B-557235,508,215,1,Furniture,Chairs,COD
+B-577555,234,125,1,Technology,Accessories,EMI
+B-244488,173,397,2,Technology,Phones,COD
+B-448208,789,53,3,Office Supplies,Binders,Credit Card
+B-750754,624,12,8,Office Supplies,Paper,Net Banking
+B-643601,443,378,3,Technology,Copiers,Net Banking
+B-360291,654,179,8,Furniture,Chairs,Credit Card
+B-754654,960,78,9,Furniture,Chairs,Credit Card
+B-236471,868,318,6,Technology,Phones,EMI
+B-956202,377,323,6,Furniture,Bookcases,Net Banking
+B-801805,783,306,3,Office Supplies,Paper,COD
+B-474081,830,224,7,Furniture,Tables,EMI
+B-250281,732,309,2,Furniture,Bookcases,COD
+B-322779,236,218,10,Office Supplies,Paper,Net Banking
+B-907712,468,223,2,Furniture,Bookcases,Net Banking
+B-681230,580,299,2,Technology,Phones,Net Banking
+B-219050,457,160,6,Technology,Accessories,EMI
+B-156455,623,-2,7,Office Supplies,Paper,Net Banking
+B-616665,244,160,4,Furniture,Tables,Credit Card
+B-827866,763,483,7,Office Supplies,Art,EMI
+B-538307,962,211,8,Office Supplies,Binders,Credit Card
+B-205040,896,362,8,Furniture,Tables,Net Banking
+B-742958,751,319,2,Technology,Copiers,Credit Card
+B-276037,544,207,5,Technology,Accessories,COD
+B-744924,853,214,9,Office Supplies,Art,EMI
+B-911157,862,476,3,Office Supplies,Binders,Net Banking
+B-539223,889,477,2,Technology,Phones,COD
+B-236337,428,156,4,Technology,Copiers,Net Banking
+B-297045,651,118,1,Office Supplies,Paper,Net Banking
+B-736641,755,223,3,Furniture,Chairs,COD
+B-336173,740,261,5,Furniture,Chairs,EMI
+B-984913,722,-34,9,Office Supplies,Paper,Credit Card
+B-887049,268,89,6,Furniture,Bookcases,Credit Card
+B-500258,157,498,7,Office Supplies,Art,Net Banking
+B-562368,526,240,5,Office Supplies,Art,Net Banking
+B-426173,174,193,1,Furniture,Chairs,EMI
+B-396067,71,4,3,Furniture,Tables,COD
+B-376563,386,288,1,Office Supplies,Binders,COD
+B-921945,90,434,7,Office Supplies,Art,Net Banking
+B-810702,416,36,1,Furniture,Chairs,Net Banking
+B-258263,201,420,5,Furniture,Chairs,COD
+B-100883,606,0,4,Technology,Copiers,Credit Card
+B-674258,817,157,4,Office Supplies,Art,EMI
+B-931323,995,408,4,Office Supplies,Art,Net Banking
+B-269706,801,186,10,Technology,Phones,Credit Card
+B-714079,761,4,3,Technology,Accessories,EMI
+B-811484,612,345,4,Technology,Accessories,Net Banking
+B-739878,823,17,9,Office Supplies,Binders,EMI
+B-942109,283,444,7,Furniture,Bookcases,Credit Card
+B-874466,230,422,3,Office Supplies,Paper,COD
+B-282663,515,198,4,Technology,Accessories,COD
+B-704140,172,256,5,Office Supplies,Paper,Net Banking
+B-359352,697,387,8,Furniture,Tables,EMI
+B-685042,655,168,3,Office Supplies,Paper,EMI
+B-350335,306,106,3,Furniture,Chairs,COD
+B-413361,689,-35,4,Furniture,Bookcases,Net Banking
+B-721289,484,272,10,Furniture,Bookcases,Credit Card
+B-772149,519,405,10,Office Supplies,Paper,Credit Card
+B-755746,890,5,4,Office Supplies,Paper,Net Banking
+B-144611,131,21,9,Furniture,Chairs,COD
+B-690231,674,392,6,Office Supplies,Paper,COD
+B-126094,366,459,10,Technology,Accessories,Net Banking
+B-846711,185,163,1,Furniture,Chairs,Credit Card
+B-357025,87,346,2,Furniture,Chairs,Net Banking
+B-618577,341,41,5,Office Supplies,Paper,Credit Card
+B-178894,419,339,3,Technology,Accessories,Net Banking
+B-777636,92,97,9,Furniture,Tables,Net Banking
+B-114156,605,270,9,Office Supplies,Art,Net Banking
+B-577492,464,407,4,Furniture,Bookcases,Credit Card
+B-296850,940,-15,7,Furniture,Bookcases,Credit Card
+B-695670,323,34,6,Furniture,Bookcases,Credit Card
+B-993754,679,32,6,Technology,Copiers,Credit Card
+B-401323,462,297,1,Technology,Accessories,COD
+B-745918,851,242,5,Furniture,Bookcases,Net Banking
+B-692422,98,101,5,Furniture,Bookcases,COD
+B-203689,956,-38,7,Technology,Accessories,EMI
+B-198474,285,495,6,Office Supplies,Paper,COD
+B-541066,623,11,6,Office Supplies,Paper,Net Banking
+B-677173,890,452,6,Office Supplies,Art,EMI
+B-246183,492,280,6,Office Supplies,Paper,Credit Card
+B-510000,245,266,1,Technology,Phones,EMI
+B-903653,500,253,6,Technology,Copiers,Net Banking
+B-934736,295,292,4,Technology,Accessories,Credit Card
+B-282233,375,436,8,Furniture,Chairs,Net Banking
+B-523537,932,171,7,Technology,Phones,COD
+B-214005,487,438,7,Office Supplies,Art,COD
+B-857988,669,159,6,Technology,Accessories,Net Banking
+B-509769,165,39,3,Technology,Accessories,EMI
+B-865225,775,117,7,Technology,Copiers,Net Banking
+B-881508,420,227,3,Technology,Phones,COD
+B-424727,305,50,7,Technology,Phones,EMI
+B-510498,182,194,2,Furniture,Chairs,Credit Card
+B-146270,193,133,5,Technology,Accessories,EMI
+B-256998,310,400,10,Office Supplies,Art,Credit Card
+B-859335,948,179,6,Furniture,Bookcases,Credit Card
+B-596287,355,36,3,Technology,Phones,Credit Card
+B-991492,422,224,6,Furniture,Tables,COD
+B-178068,237,247,6,Technology,Phones,COD
+B-355091,529,-2,3,Technology,Accessories,EMI
+B-144562,109,380,3,Office Supplies,Binders,Credit Card
+B-521402,116,197,3,Furniture,Chairs,EMI
+B-558488,732,2,10,Office Supplies,Art,EMI
+B-577418,532,218,10,Office Supplies,Paper,Credit Card
+B-690555,298,10,5,Office Supplies,Art,Credit Card
+B-777376,865,318,4,Technology,Copiers,Credit Card
+B-297523,488,297,1,Furniture,Tables,Credit Card
+B-705290,233,314,5,Furniture,Tables,Credit Card
+B-847796,702,192,5,Technology,Copiers,Credit Card
+B-886879,876,455,4,Furniture,Bookcases,Credit Card
+B-349697,828,45,1,Furniture,Tables,Credit Card
+B-450430,243,475,8,Office Supplies,Paper,Net Banking
+B-153028,93,210,8,Furniture,Tables,COD
+B-328812,295,462,6,Office Supplies,Paper,COD
+B-743610,557,226,9,Technology,Phones,EMI
+B-248448,648,49,1,Technology,Copiers,Net Banking
+B-268472,876,66,3,Technology,Phones,Net Banking
+B-858748,681,297,7,Furniture,Chairs,Net Banking
+B-659840,833,238,1,Technology,Accessories,Net Banking
+B-694570,515,396,5,Technology,Phones,COD
+B-353972,478,168,8,Furniture,Tables,Net Banking
+B-681487,636,220,4,Technology,Copiers,COD
+B-821548,428,32,7,Office Supplies,Binders,Net Banking
+B-292809,543,377,10,Furniture,Chairs,EMI
+B-579505,324,26,6,Office Supplies,Art,EMI
+B-775408,883,30,3,Technology,Phones,COD
+B-662363,269,69,5,Technology,Phones,EMI
+B-919385,678,345,2,Office Supplies,Binders,EMI
+B-815954,955,341,5,Furniture,Bookcases,Net Banking
+B-618950,880,405,9,Office Supplies,Art,COD
+B-797479,636,7,3,Technology,Copiers,Credit Card
+B-995876,913,242,1,Furniture,Bookcases,COD
+B-452768,151,322,10,Office Supplies,Paper,Net Banking
+B-729123,642,60,1,Technology,Phones,COD
+B-720158,110,406,4,Furniture,Bookcases,COD
+B-573301,948,499,4,Technology,Phones,EMI
+B-962856,989,23,1,Technology,Phones,Net Banking
+B-709186,661,125,9,Office Supplies,Paper,COD
+B-848589,159,366,8,Technology,Phones,Net Banking
+B-817485,244,49,4,Office Supplies,Paper,Net Banking
+B-722184,277,345,2,Office Supplies,Paper,Credit Card
+B-976552,633,35,9,Office Supplies,Paper,COD
+B-181352,452,336,3,Office Supplies,Binders,COD
+B-279244,268,472,9,Furniture,Bookcases,Net Banking
+B-992511,632,75,6,Technology,Phones,COD
+B-218308,547,-39,8,Furniture,Bookcases,Credit Card
+B-695844,454,376,9,Technology,Copiers,EMI
+B-137029,658,392,9,Office Supplies,Paper,Credit Card
+B-185536,325,118,3,Technology,Accessories,Net Banking
+B-616623,410,-13,10,Office Supplies,Art,COD
+B-924846,245,413,6,Furniture,Bookcases,EMI
+B-627774,937,352,5,Office Supplies,Art,COD
+B-517010,544,258,1,Furniture,Chairs,COD
+B-696278,902,316,6,Office Supplies,Paper,COD
+B-166707,545,397,2,Furniture,Bookcases,Credit Card
+B-915218,418,242,3,Office Supplies,Binders,COD
+B-206048,782,359,8,Office Supplies,Binders,EMI
+B-443656,907,10,9,Furniture,Chairs,EMI
+B-791280,561,271,1,Technology,Copiers,Credit Card
+B-789108,62,188,3,Office Supplies,Binders,EMI
+B-985870,69,305,7,Office Supplies,Paper,Credit Card
+B-997638,813,125,2,Furniture,Chairs,EMI
+B-403223,370,343,5,Furniture,Tables,Credit Card
+B-912794,457,115,8,Office Supplies,Paper,Credit Card
+B-944275,665,431,6,Furniture,Bookcases,COD
+B-681484,562,106,7,Office Supplies,Binders,EMI
+B-598193,715,75,10,Furniture,Bookcases,COD
+B-939795,173,178,7,Office Supplies,Art,COD
+B-657090,412,256,6,Office Supplies,Art,Net Banking
+B-710616,568,357,9,Technology,Phones,COD
+B-928121,530,452,8,Technology,Copiers,Credit Card
+B-555214,148,282,1,Office Supplies,Binders,COD
+B-238266,602,62,2,Furniture,Bookcases,EMI
+B-396323,204,93,3,Office Supplies,Paper,Net Banking
+B-674334,627,257,2,Technology,Copiers,EMI
+B-149652,575,-28,5,Furniture,Chairs,Credit Card
+B-985627,420,240,10,Furniture,Tables,EMI
+B-634456,463,138,9,Office Supplies,Binders,EMI
+B-295473,807,446,3,Office Supplies,Art,Net Banking
+B-514792,228,174,3,Technology,Copiers,EMI
+B-629457,971,174,9,Office Supplies,Binders,COD
+B-434903,869,43,9,Furniture,Chairs,EMI
+B-804589,558,418,5,Office Supplies,Binders,COD
+B-888011,205,85,5,Office Supplies,Binders,EMI
+B-383816,360,444,10,Office Supplies,Binders,Credit Card
+B-614241,605,74,5,Technology,Accessories,EMI
+B-938646,414,307,6,Furniture,Tables,EMI
+B-909217,125,196,1,Furniture,Bookcases,EMI
+B-312869,586,119,6,Furniture,Tables,EMI
+B-532653,687,466,9,Office Supplies,Binders,Net Banking
+B-154364,854,114,8,Office Supplies,Paper,Net Banking
+B-917702,81,78,1,Office Supplies,Art,Net Banking
+B-227517,859,447,1,Office Supplies,Art,COD
+B-345260,222,-27,6,Office Supplies,Art,EMI
+B-642357,641,-32,7,Furniture,Tables,COD
+B-534632,63,384,1,Furniture,Bookcases,Credit Card
+B-666093,160,234,10,Office Supplies,Paper,COD
+B-992368,320,460,5,Technology,Phones,Credit Card
+B-379940,533,-44,7,Office Supplies,Paper,COD
+B-547094,809,342,1,Technology,Accessories,COD
+B-623348,966,201,7,Technology,Copiers,Credit Card
+B-283279,205,265,10,Office Supplies,Paper,EMI
+B-488873,991,203,10,Technology,Phones,EMI
+B-871269,165,90,4,Furniture,Bookcases,EMI
+B-835726,364,261,6,Furniture,Chairs,COD
+B-113642,443,53,8,Office Supplies,Paper,EMI
+B-198121,200,159,7,Technology,Copiers,EMI
+B-578776,165,-18,1,Office Supplies,Binders,EMI
+B-574751,669,254,9,Office Supplies,Binders,Credit Card
+B-121640,511,472,10,Technology,Phones,EMI
+B-391411,850,310,4,Furniture,Chairs,Net Banking
+B-847542,214,420,10,Furniture,Bookcases,COD
+B-710195,322,404,1,Office Supplies,Binders,Net Banking
+B-750231,144,221,3,Furniture,Tables,EMI
+B-352208,946,66,7,Office Supplies,Paper,EMI
+B-655535,677,353,5,Technology,Accessories,COD
+B-273136,224,334,4,Furniture,Chairs,Credit Card
+B-400708,430,108,1,Furniture,Tables,Net Banking
+B-334067,378,243,4,Technology,Phones,COD
+B-705919,432,217,5,Furniture,Chairs,Credit Card
+B-284755,183,213,6,Technology,Copiers,Net Banking
+B-739424,174,418,4,Office Supplies,Binders,Credit Card
+B-739573,961,170,2,Technology,Phones,Credit Card
+B-903175,351,482,4,Technology,Copiers,Credit Card
+B-294080,699,138,6,Office Supplies,Paper,EMI
+B-141552,839,78,5,Technology,Accessories,Credit Card
+B-166184,170,46,3,Technology,Accessories,Credit Card
+B-674871,170,215,3,Office Supplies,Art,COD
+B-931626,185,317,8,Office Supplies,Binders,EMI
+B-999436,750,251,6,Furniture,Tables,Net Banking
+B-758213,991,-42,5,Furniture,Chairs,Credit Card
+B-664659,826,234,6,Furniture,Chairs,Net Banking
+B-440718,976,305,6,Furniture,Bookcases,Credit Card
+B-770832,624,85,1,Furniture,Chairs,EMI
+B-686146,145,-14,10,Office Supplies,Binders,Credit Card
+B-561388,116,117,6,Technology,Copiers,Credit Card
+B-967398,781,-35,1,Furniture,Chairs,EMI
+B-646736,245,425,1,Furniture,Bookcases,Credit Card
+B-676280,194,42,9,Technology,Phones,COD
+B-601718,228,398,6,Technology,Accessories,Net Banking
+B-433921,674,253,5,Furniture,Bookcases,Net Banking
+B-525265,840,101,9,Office Supplies,Art,Credit Card
+B-678079,208,441,2,Furniture,Chairs,EMI
+B-317102,500,246,7,Office Supplies,Paper,Credit Card
+B-153968,425,326,6,Furniture,Tables,Credit Card
+B-385546,578,339,6,Technology,Phones,Credit Card
+B-200925,510,85,4,Technology,Phones,Credit Card
+B-626037,354,-25,8,Office Supplies,Paper,COD
+B-325179,583,6,8,Furniture,Bookcases,EMI
+B-119039,989,399,4,Office Supplies,Paper,Net Banking
+B-137375,784,473,2,Technology,Copiers,Credit Card
+B-783166,158,265,3,Office Supplies,Paper,Credit Card
+B-134451,582,487,8,Technology,Copiers,EMI
+B-112634,685,262,9,Technology,Copiers,Credit Card
+B-788613,332,-31,7,Technology,Accessories,Credit Card
+B-652682,811,270,1,Furniture,Bookcases,Credit Card
+B-119488,578,120,9,Office Supplies,Binders,Credit Card
+B-869713,636,392,9,Office Supplies,Art,Credit Card
+B-356310,942,454,5,Technology,Copiers,EMI
+B-637383,910,385,3,Furniture,Tables,Net Banking
+B-638492,342,45,7,Technology,Accessories,EMI
+B-446295,596,453,3,Furniture,Chairs,COD
+B-634389,405,279,5,Office Supplies,Binders,Net Banking
+B-507794,856,121,8,Technology,Phones,COD
+B-615617,101,-28,4,Furniture,Bookcases,COD
+B-417986,332,175,10,Office Supplies,Paper,Net Banking
+B-433654,969,369,3,Furniture,Chairs,COD
+B-654891,285,-25,6,Office Supplies,Art,Net Banking
+B-685842,753,174,5,Furniture,Tables,Credit Card
+B-762247,378,225,2,Office Supplies,Binders,EMI
+B-802709,66,128,8,Technology,Phones,EMI
+B-637006,268,258,9,Technology,Copiers,Credit Card
+B-158944,318,122,3,Office Supplies,Paper,EMI
+B-273337,136,251,8,Office Supplies,Art,Credit Card
+B-843449,166,417,6,Furniture,Bookcases,Net Banking
+B-243273,299,353,8,Technology,Phones,COD
+B-775108,841,275,5,Technology,Copiers,EMI
+B-979172,251,224,3,Technology,Copiers,Credit Card
+B-709028,491,237,7,Furniture,Chairs,Net Banking
+B-947969,465,449,2,Technology,Copiers,Credit Card
+B-705879,845,-20,2,Office Supplies,Art,Net Banking
+B-932032,444,161,4,Furniture,Chairs,COD
+B-550227,130,354,6,Technology,Phones,Credit Card
+B-455548,125,-50,5,Technology,Copiers,Credit Card
+B-617233,396,237,6,Office Supplies,Art,Credit Card
+B-762893,456,465,3,Furniture,Chairs,Net Banking
+B-734509,737,296,4,Technology,Phones,COD
+B-539751,574,207,10,Technology,Phones,Net Banking
+B-599367,838,437,6,Furniture,Chairs,Credit Card
+B-623079,542,431,6,Technology,Copiers,COD
+B-570202,256,11,1,Furniture,Bookcases,Net Banking
+B-322845,370,143,4,Technology,Copiers,Credit Card
+B-861879,284,486,1,Technology,Accessories,EMI
+B-988568,760,47,4,Technology,Phones,COD
+B-189613,701,240,6,Furniture,Chairs,COD
+B-121104,72,43,8,Office Supplies,Binders,Net Banking
+B-689788,793,179,4,Furniture,Bookcases,Credit Card
+B-787508,919,201,7,Technology,Accessories,EMI
+B-367505,507,361,7,Office Supplies,Art,COD
+B-834655,94,434,2,Technology,Accessories,Credit Card
+B-314709,764,69,8,Furniture,Tables,Net Banking
+B-925747,735,462,2,Office Supplies,Paper,COD
+B-194039,733,49,9,Technology,Copiers,EMI
+B-167042,999,1,4,Technology,Copiers,Credit Card
+B-934300,364,-38,2,Technology,Accessories,Net Banking
+B-249301,805,359,10,Office Supplies,Paper,Credit Card
+B-328395,740,329,10,Furniture,Chairs,Credit Card
+B-211595,889,125,10,Office Supplies,Binders,COD
+B-482936,501,-3,6,Office Supplies,Binders,COD
+B-376397,739,4,1,Technology,Accessories,Net Banking
+B-170246,543,219,9,Technology,Copiers,Net Banking
+B-503042,872,91,2,Technology,Copiers,EMI
+B-241365,412,356,1,Furniture,Tables,Credit Card
+B-875740,490,-3,1,Office Supplies,Binders,EMI
+B-241452,116,286,5,Office Supplies,Binders,Credit Card
+B-910886,93,391,10,Office Supplies,Binders,Credit Card
+B-456579,608,495,2,Office Supplies,Art,Net Banking
+B-339884,950,323,9,Technology,Copiers,Credit Card
+B-836100,960,419,5,Furniture,Bookcases,EMI
+B-943163,298,195,1,Office Supplies,Paper,Credit Card
+B-458079,785,294,3,Furniture,Tables,Credit Card
+B-707681,120,421,8,Office Supplies,Paper,Credit Card
+B-706282,402,368,8,Technology,Accessories,Credit Card
+B-430435,120,257,3,Office Supplies,Binders,Credit Card
+B-361056,976,498,8,Office Supplies,Art,EMI
+B-595909,501,472,7,Technology,Phones,EMI
+B-233696,544,75,3,Technology,Copiers,Net Banking
+B-926258,413,26,1,Office Supplies,Art,Net Banking
+B-739971,736,281,9,Furniture,Tables,EMI
+B-447622,183,133,1,Technology,Accessories,Net Banking
+B-516834,477,196,5,Furniture,Chairs,Credit Card
+B-588070,416,499,3,Office Supplies,Paper,COD
+B-555400,202,268,1,Technology,Copiers,COD
+B-401701,755,288,6,Furniture,Tables,EMI
+B-738671,156,359,8,Office Supplies,Binders,Net Banking
+B-307455,826,389,1,Furniture,Chairs,Credit Card
+B-705248,496,412,4,Technology,Accessories,EMI
+B-442985,939,308,8,Furniture,Tables,Credit Card
+B-679541,849,204,9,Technology,Copiers,Credit Card
+B-546662,685,442,4,Technology,Accessories,Net Banking
+B-581705,347,61,9,Furniture,Tables,EMI
+B-180317,668,84,5,Office Supplies,Art,COD
+B-421403,603,468,4,Furniture,Bookcases,COD
+B-968048,849,376,1,Technology,Accessories,Credit Card
+B-579037,632,368,4,Furniture,Tables,Net Banking
+B-847697,126,258,8,Furniture,Tables,COD
+B-821616,550,18,6,Office Supplies,Paper,Credit Card
+B-641320,165,83,2,Office Supplies,Paper,COD
+B-814000,70,369,1,Office Supplies,Paper,EMI
+B-235443,852,266,3,Office Supplies,Paper,COD
+B-638860,898,153,2,Furniture,Chairs,Credit Card
+B-648132,107,317,2,Office Supplies,Paper,Net Banking
+B-169471,945,328,9,Furniture,Bookcases,COD
+B-663492,961,74,1,Furniture,Tables,Net Banking
+B-750504,122,201,2,Technology,Accessories,COD
+B-139855,957,396,6,Office Supplies,Art,Net Banking
+B-798460,264,422,6,Technology,Accessories,Net Banking
+B-309473,195,86,7,Technology,Copiers,Credit Card
+B-307237,421,488,9,Furniture,Tables,COD
+B-835807,125,12,5,Office Supplies,Art,Credit Card
+B-962081,871,146,1,Office Supplies,Binders,EMI
+B-595971,392,258,1,Furniture,Bookcases,EMI
+B-739503,156,241,3,Office Supplies,Art,EMI
+B-449833,157,-23,1,Technology,Accessories,Credit Card
+B-338960,788,499,10,Office Supplies,Binders,Net Banking
+B-154732,70,359,7,Furniture,Bookcases,COD
+B-611466,813,23,9,Technology,Accessories,EMI
+B-564046,243,392,1,Technology,Accessories,Credit Card
+B-681492,500,293,7,Technology,Copiers,EMI
+B-281207,523,180,1,Furniture,Tables,EMI
+B-719000,877,413,6,Office Supplies,Art,Net Banking
+B-927165,609,180,9,Technology,Accessories,COD
+B-874467,210,111,1,Technology,Phones,Credit Card
+B-226714,630,11,9,Furniture,Chairs,Net Banking
+B-927105,619,6,4,Furniture,Bookcases,Credit Card
+B-779675,668,121,7,Furniture,Chairs,EMI
+B-620455,282,268,3,Technology,Accessories,Net Banking
+B-828723,953,406,8,Technology,Accessories,Credit Card
+B-980603,996,136,1,Technology,Copiers,Net Banking
+B-181605,92,166,3,Technology,Phones,Net Banking
+B-389203,678,307,5,Technology,Accessories,Credit Card
+B-935464,651,-41,9,Office Supplies,Binders,Net Banking
+B-475537,232,163,2,Furniture,Bookcases,EMI
+B-428183,910,302,1,Office Supplies,Art,EMI
+B-864891,698,91,7,Technology,Accessories,COD
+B-995044,252,149,10,Technology,Accessories,EMI
+B-885215,961,65,4,Office Supplies,Binders,Net Banking
+B-144931,418,215,8,Office Supplies,Art,EMI
+B-490536,883,448,9,Office Supplies,Binders,EMI
+B-175996,664,111,2,Technology,Accessories,EMI
+B-998276,772,334,10,Technology,Phones,Credit Card
+B-755227,612,73,7,Office Supplies,Binders,Net Banking
+B-685865,470,426,5,Furniture,Bookcases,COD
+B-853932,789,101,6,Furniture,Chairs,EMI
+B-395095,556,140,10,Technology,Phones,EMI
+B-731322,669,316,7,Technology,Accessories,Credit Card
+B-539449,894,-10,6,Furniture,Chairs,Credit Card
+B-131921,461,133,1,Technology,Accessories,Net Banking
+B-415904,237,494,10,Technology,Copiers,EMI
+B-689294,109,335,4,Furniture,Chairs,Credit Card
+B-531587,290,205,2,Furniture,Chairs,Credit Card
+B-872030,599,185,8,Technology,Phones,Net Banking
+B-506646,982,337,2,Office Supplies,Binders,COD
+B-292601,56,-12,4,Furniture,Chairs,Net Banking
+B-572821,896,1,10,Office Supplies,Paper,Net Banking
+B-146782,102,-37,2,Furniture,Bookcases,Credit Card
+B-695834,515,346,10,Furniture,Tables,EMI
+B-630661,645,361,4,Office Supplies,Art,EMI
+B-590619,224,196,10,Office Supplies,Paper,Net Banking
+B-271897,610,197,3,Technology,Phones,COD
+B-275633,923,253,5,Technology,Phones,COD
+B-604452,294,428,1,Office Supplies,Binders,Net Banking
+B-466677,474,222,7,Furniture,Tables,EMI
+B-110000,868,409,7,Furniture,Chairs,Credit Card
+B-142797,755,262,4,Furniture,Bookcases,COD
+B-568023,474,115,5,Office Supplies,Binders,COD
+B-476104,494,283,7,Office Supplies,Art,Net Banking
+B-410219,890,289,6,Technology,Accessories,Credit Card
+B-699761,50,336,8,Technology,Phones,Net Banking
+B-958763,367,115,1,Technology,Accessories,COD
+B-954305,491,268,8,Office Supplies,Paper,Net Banking
+B-722948,712,346,8,Office Supplies,Binders,Credit Card
+B-637893,350,460,4,Technology,Copiers,EMI
+B-173778,100,363,10,Furniture,Tables,Net Banking
+B-277092,394,316,6,Office Supplies,Binders,EMI
+B-703352,602,286,7,Furniture,Bookcases,Credit Card
+B-476850,659,281,4,Furniture,Tables,Credit Card
+B-425228,885,-36,7,Technology,Phones,Net Banking
+B-185142,864,448,5,Technology,Accessories,COD
+B-727376,221,-30,7,Furniture,Chairs,Net Banking
+B-866965,350,110,4,Office Supplies,Binders,Net Banking
+B-882154,790,494,5,Furniture,Bookcases,COD
+B-887242,313,66,3,Office Supplies,Art,EMI
